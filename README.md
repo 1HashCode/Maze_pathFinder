@@ -1,4 +1,4 @@
-# Maze_Path_Finder, Comparison between A star and Djikstra algorithm.
+# Maze_Path_Finder, Comparison between A star and Dijkstra algorithm.
 # ![Untitled video - Made with Clipchamp (1)](https://github.com/1HashCode/Maze_pathFinder/assets/154821339/36855ad4-de68-4af6-8beb-11a7b2180450)
 
 ## About A star and Djikstra algorithm
