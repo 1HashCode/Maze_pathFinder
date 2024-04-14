@@ -1,5 +1,6 @@
 # Maze_Path_Finder, Comparison between A star and Dijkstra algorithm.
-# ![Untitled video - Made with Clipchamp (1)](https://github.com/1HashCode/Maze_pathFinder/assets/154821339/36855ad4-de68-4af6-8beb-11a7b2180450)
+# ![Untitled video - Made with Clipchamp (3)](https://github.com/1HashCode/Maze_pathFinder/assets/154821339/12780dea-06e8-4cb6-9407-1c3a93770dc7)
+
 
 ## About A star and Djikstra algorithm
 Both the A* algorithm and Dijkstra's algorithm are widely used for pathfinding in graphs, including grid-based maps like mazes.
